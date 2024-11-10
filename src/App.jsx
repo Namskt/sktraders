@@ -21,9 +21,7 @@ function App() {
           >
             BROKER YANG SERING GUA PAKEK
           </a>
-        </div>
-        <div>
-          <a
+           <a
             href="https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id"
             className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white"
           >
