@@ -15,7 +15,7 @@ function App() {
           />
         </div>
         <div className="flex justify-center items-center">
-        <div>
+        <div className="relative">
           <a
             href="https://fbs.partners?ibl=865482&ibp=33988576"
             className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white"
@@ -23,7 +23,7 @@ function App() {
             BROKER YANG SERING GUA PAKEK
           </a>
         </div>
-        <div>
+        <div className="relative">
          <a
             href="https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id"
             className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white"
