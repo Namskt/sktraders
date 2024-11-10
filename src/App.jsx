@@ -15,18 +15,22 @@ function App() {
           />
         </div>
         <div className="flex flex-col justify-center items-center relative>
-          <a
+         <p>
+           <a
             href="https://fbs.partners?ibl=865482&ibp=33988576"
             className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white relative"
           >
             BROKER YANG SERING GUA PAKEK
           </a>
+          </p>
+         <p>
            <a
             href="https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id"
             className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white relative"
           >
             BROKER DENGAN AKUN ZERO SPREAD RENDAH
           </a>
+         </p>
           </div> 
     </div>
   );
