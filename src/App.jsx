@@ -1,6 +1,18 @@
 import "./App.css";
 import Image from "../src/assets/img.jpg";
 
+
+const ListLink = [
+  {
+    name:"BROKER YANG SERING GUA PAKEK",
+    href:"https://fbs.partners?ibl=865482&ibp=33988576"
+  },
+  {
+    name:" BROKER DENGAN AKUN ZERO SPREAD RENDAH",
+    href:"https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id"
+  }
+]
+
 function App() {
   return (
     <div className="py-5">
@@ -14,24 +26,17 @@ function App() {
             alt="..."
           />
         </div>
-        <div className="flex flex-col justify-center items-center relative gap-5>
-         <p className="relative">
-           <a
-            href="https://fbs.partners?ibl=865482&ibp=33988576"
-            className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white relative"
-          >
-            BROKER YANG SERING GUA PAKEK
-          </a>
-          </p>
-         <p className="relative">
-           <a
-            href="https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id"
-            className="py-3 px-5 bg-green-700 rounded text-white text-sm font-semibold hover:bg-green-800 hover:text-white relative"
-          >
-            BROKER DENGAN AKUN ZERO SPREAD RENDAH
-          </a>
-         </p>
-          </div> 
+       <div>
+        {ListLink.map((i, index) => {
+						return (
+							<li key={index}>
+								<a href={i.href}>
+									{i.name}
+								</a>
+							</li>
+						);
+					})}
+       </div>
     </div>
   );
 }
