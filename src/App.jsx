@@ -14,7 +14,7 @@ function App() {
             alt="..."
           />
         </div>
-        <div className="max-w-lg">
+        <div className="max-w-lg flex justify-center items-center">
         <div>
           <a
             href="https://fbs.partners?ibl=865482&ibp=33988576"
