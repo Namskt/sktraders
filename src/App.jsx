@@ -14,7 +14,7 @@ function App() {
             alt="..."
           />
         </div>
-        <div className="flex justify-center items-center relative">
+        <div className="flex flex-col justify-center items-center relative">
         <div className="relative">
           <a
             href="https://fbs.partners?ibl=865482&ibp=33988576"
