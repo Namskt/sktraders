@@ -3,6 +3,10 @@ import Image from "../src/assets/img.jpg";
 
 const ListLink = [
   {
+    name: "SIGNAL FOREX",
+    href: "https://vt.tiktok.com/ZSjgGgRso/",
+  },
+  {
     name: "BROKER YANG SERING GUA PAKEK",
     href: "https://fbs.partners?ibl=865482&ibp=33988576",
   },
