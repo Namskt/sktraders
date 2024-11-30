@@ -3,7 +3,7 @@ import Image from "../src/assets/img.jpg";
 
 const ListLink = [
   {
-    name: "SIGNAL FOREX",
+    name: "SIGNAL FOREX HARIAN",
     href: "https://vt.tiktok.com/ZSjgGgRso/",
   },
   {
