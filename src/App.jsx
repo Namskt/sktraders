@@ -8,7 +8,7 @@ const ListLink = [
   },
   {
     name: "BROKER YANG SERING GUA PAKEK",
-    href: "https://fbs.partners?ibl=865482&ibp=33988576",
+    href: "https://fbs.partners?ibl=874040&ibp=33988576",
   },
   {
     name: "BROKER DENGAN AKUN ZERO SPREAD RENDAH",
