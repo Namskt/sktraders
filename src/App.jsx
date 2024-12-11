@@ -3,14 +3,6 @@ import Image from "../src/assets/img.jpg";
 
 const ListLink = [
   {
-    name: "GROP SIGNAL FOREX",
-    href: "https://t.me/+0H4dxRBqh8o0OTll",
-  },
-  {
-    name: "BROKER YANG SERING GUA PAKEK",
-    href: "https://fbs.partners?ibl=874040&ibp=33988576",
-  },
-  {
     name: "BROKER DENGAN AKUN ZERO SPREAD RENDAH",
     href: "https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id",
   },
