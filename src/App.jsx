@@ -3,12 +3,12 @@ import Image from "../src/assets/img.jpg";
 
 const ListLink = [
    {
-    name: "GROP SIGNAL FOREX",
-    href: "https://t.me/teamsktraders",
+    name: "LANGGANAN COPY TRADE CHAT ADMIN",
+    href: "https://t.me/teamsktradersbro",
   },
   {
-    name: "BROKER DENGAN AKUN ZERO SPREAD RENDAH",
-    href: "https://one.exnesstrack.org/boarding/sign-up/a/7di01z8hol?lng=id",
+    name: "BROKER AMAN DAN SERING AKU PAKEK",
+    href: "https://account.tradersfamily.id/aff/552861/",
   },
   {
     name: "YOUTUBE",
