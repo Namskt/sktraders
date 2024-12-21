@@ -7,7 +7,7 @@ const ListLink = [
     href: "https://t.me/teamsktradersbro",
   },
    {
-    name: "BROKER SPREED 0 TANPA KOMISI",
+    name: "BROKER SPREAD 0 TANPA KOMISI",
     href: "https://one.justmarkets.link/a/39n240uaqa/id/registration/trader",
   },
   {
