@@ -6,6 +6,10 @@ const ListLink = [
     name: "LANGGANAN COPY TRADE CHAT ADMIN",
     href: "https://t.me/teamsktradersbro",
   },
+   {
+    name: "BROKER SPREED 0 TANPA KOMISI",
+    href: "https://one.justmarkets.link/a/39n240uaqa/id/registration/trader",
+  },
   {
     name: "BROKER AMAN DAN SERING AKU PAKEK",
     href: "https://account.tradersfamily.id/aff/552861/",
