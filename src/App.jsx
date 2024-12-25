@@ -3,6 +3,10 @@ import Image from "../src/assets/img.jpg";
 
 const ListLink = [
    {
+    name: "COPY TRADE, GAK PERLU PUSING TRADING SENDIRI CUKUP IKUT COPY TRADE UDAH TRADING OTOMATIS",
+    href: "https://one.justmarkets.link/a/39n240uaqa/id/registration/investor",
+  },
+   {
     name: "BROKER AMAN DAN SERING AKU PAKEK DENGAN SPREAD 0 TANPA KOMISI",
     href: "https://one.justmarkets.link/a/39n240uaqa/id/registration/trader",
   },
